@@ -4,7 +4,15 @@ title: Contact
 permalink: /contact/
 ---
 
-Insert a form or contact details here.
+
+
+> 一个喜欢电吉他的搬砖仔
+>
+> Email:517993945@qq.com
+
+
+
+
 
 More about jekyll forms here: [https://blog.webjeda.com/jekyll-contact-form/](https://blog.webjeda.com/jekyll-contact-form/)
 
