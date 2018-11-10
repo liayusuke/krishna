@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "agent压测与思考"
+title:  "agent压测"
 date:   2018-11-08 14:34:56 
 categories: jekyll update
 icon: motorcycle
